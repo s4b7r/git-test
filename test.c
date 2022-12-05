@@ -3,5 +3,5 @@ void main() {
 	printf("%d", x);
 	printf("Test");
 	printf("Hello World");
-	printf("Hallo");
+	printf("Hello");
 }
